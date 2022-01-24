@@ -27,7 +27,7 @@ html file saved as home1.html
     <title>Link1</title>
 </head>
 <body>
-    <img src="Image/img.jpg" width="1000" height="600">
+    <img src="Image/img.jpeg" width="1000" height="600">
 </body>
 </html>
 
