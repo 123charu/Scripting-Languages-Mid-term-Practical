@@ -44,9 +44,9 @@ background-color:green;
 
 <div class="div">
 <div class="div2">
-<a href="" onclick="myfunc()"> clickit</a>
+<button  onclick="myfunc()"> clickit</button>
 </div>
-<iframe class="div3" id="iframi" src="https://www.youtube.com/embed/ZZZG79nFfAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<iframe class="div3" id="iframi" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
     
 </iframe>
 </div>
