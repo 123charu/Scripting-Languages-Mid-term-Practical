@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <title>CSS Positions</title>
+    <style>
+        body{
+            height:10000px;
+            background-color: #FFFEA9;
+        }
+        .box{
+            width:150px;
+            height:150px;
+            color: ivory;
+
+        }
+        #container{
+            position:relative;
+            width:500px;
+            height:500px;
+        }
+        #box-1{
+            background:saddlebrown;
+            padding: 30px;
+            top:100px;
+            right:400px;
+             position: fixed;
+            z-index:1;
+
+        }
+
+    </style>
+</head>
+<body>
+
+    <div id="container" >
+      <img src="IMAGE1.jpg" alt="my image" height="500px"  width="850px">
+    </div>
+
+    <div id="box-1" class="box" >
+      <p>“loream ipsum”</p>
+    </div>
+
+</body>
+</html>
