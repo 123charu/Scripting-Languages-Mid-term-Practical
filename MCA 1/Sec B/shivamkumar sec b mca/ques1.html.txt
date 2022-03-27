@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> questioni 1 </title>
+</head>
+<style>
+*{padding:0;
+margin:0;
+width:100%;
+height:100%;
+}
+.div{
+ width:100%;
+ height;100vh;
+ background-color:red;
+  }
+  .div2{
+  position :absolute;
+  top:0;
+  left:0;
+  width:200px;
+  background-color:blue;
+  height:200px;
+  }
+  img{
+  width:100%;
+  height:100%;
+  }
+  .div3{
+  position :absolute;
+  top:0;
+  background-color:green;
+  right:0;
+  width:200px;
+  height:200px;
+  }
+</style>
+<body>
+
+
+
+<div class="div">
+<img src="https://images.pexels.com/photos/2246476/pexels-photo-2246476.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+<div class="div2">
+ <img src="https://images.pexels.com/photos/2002719/pexels-photo-2002719.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+</div>
+<div class="div3">
+ <img src="https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+</div>
+</div>
+
+hello  mam thiss is my first qusiton answer 
+hello  mam thiss is my first qusiton answer 
+
+hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer 
+hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer 
+hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer hello  mam thiss is my first qusiton answer 
+
+</body>
+</html>
