@@ -1,0 +1,30 @@
+<html>
+<head>
+    <style>
+    .column1 {
+    float: left;
+    width: 40%;
+    height:100vh;
+    }
+ .column2 {
+    float: left;
+    width: 60%;
+     height:100vh;
+    }
+
+
+    </style>
+ </head>
+ <body>
+    <div class="row">
+        <div class="column1" style="background-red;">
+            <h2>40% column</h2>
+            <a href="anotherpage" target="_blank" >click me </a>
+        </div>
+        <div class="column2" style="background-color:yellow;">
+            <h2>60% column</h2>
+
+        </div>
+    </div>
+ </body>
+</html> 
